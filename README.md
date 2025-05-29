@@ -35,3 +35,6 @@
    BITCOIN: $43,200.50
    SOLANA: $125.30
    DOGECOIN: $0.095
+6. **Dừng chương trình**:
+   ```sh
+   Nhấn Ctrl + C để dừng
